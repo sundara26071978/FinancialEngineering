@@ -27,9 +27,9 @@ Academic Papers: Foundational quantitative finance literature, including William
 Prerequisites
 To run the Python code and Jupyter Notebooks locally, ensure you have Python installed along with common financial and data analysis libraries:
 
-Bash
 git clone [https://github.com/sundara26071978/FinancialEngineering.git](https://github.com/sundara26071978/FinancialEngineering.git)
 cd FinancialEngineering
+
 Recommended Python packages:
 
 numpy
@@ -41,6 +41,8 @@ matplotlib
 scipy
 
 jupyter
+
+---
 
 📜 License
 This repository is open-source and available for educational and research purposes.
