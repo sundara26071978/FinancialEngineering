@@ -13,7 +13,8 @@ FinancialEngineering/
 ├── Python code/        # Python scripts & Jupyter Notebooks for quantitative analysis
 ├── Spreadsheets/       # Advanced Excel & spreadsheet models
 └── Sharpe_1964.pdf     # Capital Asset Pricing Model (CAPM) seminal paper by William F. Sharpe
-
+```
+---
 
 🧰 Key Features & Contents
 Python & Jupyter Notebooks: Practical implementations of financial modeling, risk analytics, and quantitative methods using Python.
